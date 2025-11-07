@@ -9,5 +9,5 @@ Everything was connected to an API that the user could use to determine the degr
 
 
 
-<img src="./DepthMap.gif"/>
-<img src="./GeneratedCity.gif"/>
+<img src="./DepthMap.gif" width="50%" height="50%"/>
+<img src="./GeneratedCity.gif" width="50%" height="50%"/>
