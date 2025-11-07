@@ -37,7 +37,8 @@ This was at the time my longest running project at Trafikverket. There is a prob
   <figure>
     <p align="center">
       <img src="OldResults/TreeSegmentation/Trees.png" width="75%" height="75%"/>
-      <figcaption>This is my caption text.</figcaption>
+      
+      Original Point cloud
   </p>
 </figure>
 
