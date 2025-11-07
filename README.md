@@ -19,4 +19,4 @@ Camera was simulated by building an intrinsic camera matrix based on data from o
 Everything was connected to an API that the user could use to determine the degree of occlusion, number of images, angles, time of day, weather, etc.
 
 <img src="./GeneratedCity.gif" width="50%" height="50%"/><img src="./DepthMap.gif" width="50%" height="50%"/>
-Left: Generated city   Right: Generated depth map
+Left: Proceduraly generated city   Right: Resulting depth map
