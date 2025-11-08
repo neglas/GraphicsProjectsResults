@@ -42,4 +42,51 @@ This was at the time my longest running project at Trafikverket. There is a prob
   </p>
 </figure>
 
+  <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeTrunkFiltering.png" width="75%" height="75%"/>
+      
+      Different steps of the filtering process. Points that have a high correlation with tree trunks geometry are saved.
+  </p>
+</figure>
 
+
+  <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/Voxelization.png" width="75%" height="75%"/>
+      
+      Points are clumped together in a voxelgrid, based on proximity and cluster direction.
+  </p>
+</figure>
+
+  <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeTrunkExtractionResult.png" width="75%" height="75%"/>
+      
+      Extracted trunks
+  </p>
+</figure>
+
+  <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeGrowthFirstStep.png" width="75%" height="75%"/>
+      
+      Nth iteration of the growth process
+  </p>
+</figure>
+
+ <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeSegmentationResults.png" width="75%" height="75%"/>
+      
+      Segmentation results from multiple views
+  </p>
+</figure>
+
+<figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeSegmentationResults2.png" width="50%" height="50%"/> <img src="OldResults/TreeSegmentation/Trees.png" width="50%" height="50%"/>
+      
+      Left: Segmentation results Right: original view
+  </p>
+</figure>
