@@ -94,14 +94,14 @@ This was at the time my longest running project at Trafikverket. There is a prob
 ### Unreal Engine, C++
 
 To easier get information out to people about planned and/or ongoing building processes.I and two, other at the time, junior engineer interns created a Pipeline in which 
-someone working with BIM data can upload the model to a cloud server. A user that is out and about can then get a notification about projects in close proximity and open the AR app on the phone. The phone compares the GNSS position and angle to magnetic north of the user, with the world position and direction of the model in the cloud. The object is then displayed in the phone for the user to see.  
+someone working with BIM data can upload the model to a cloud server. A user that is out and about can then get a notification about projects in close proximity and open the AR app on the phone. The phone compares the GNSS position and angle to magnetic north of the user, with the world position and direction of the model in the cloud. The object is then displayed in the phone for the user to see. Since no real world data was provided, we attached some GNSS coordinates to the Blender object 'Susan' and used her as a replacement.
 
  <figure>
     <p align="center">
-      <img src="OldResults/ARApplication/ARAppLoadingScreen.png" width="33%" height="33%"/>
       <img src="OldResults/ARApplication/ARAppLoadingStartScreen.png" width="33%" height="33%"/>
       <img src="OldResults/ARApplication/ARAppResult.png" width="33%" height="33%"/>
       
-      Segmentation results from another cluster in the same point cloud
+      AR application
+      Left: Start screen Right: App displaying the blender object 'Susan' 
   </p>
 </figure>
