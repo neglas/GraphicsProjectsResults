@@ -99,7 +99,7 @@ someone working with BIM data can upload the model to a cloud server. A user tha
  <figure>
     <p align="center">
       <img src="OldResults/ARApplication/ARAppLoadingScreen.png" width="33%" height="33%"/>
-      <img src="OldResults/ARApplication/ARAppStartScreen.png" width="33%" height="33%"/>
+      <img src="OldResults/ARApplication/ARAppLoadingStartScreen.png" width="33%" height="33%"/>
       <img src="OldResults/ARApplication/ARAppResult.png" width="33%" height="33%"/>
       
       Segmentation results from another cluster in the same point cloud
