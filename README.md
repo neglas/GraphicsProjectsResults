@@ -61,7 +61,7 @@ This was at the time my longest running project at Trafikverket. There is a prob
 
   <figure>
     <p align="center">
-      <img src="OldResults/TreeSegmentation/TreeTrunkExtractionResult.png" width="75%" height="75%"/>
+      <img src="OldResults/TreeSegmentation/TrunkExtractionResult.png" width="75%" height="75%"/>
       
       Extracted trunks
   </p>
