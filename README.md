@@ -70,18 +70,20 @@ This was at the time my longest running project at Trafikverket. There is a prob
   </p>
 </figure>
 
- <figure>
-    <p align="center">
-      <img src="OldResults/TreeSegmentation/TreeSegmentationResults.png" width="75%" height="75%"/>
-      
-      Segmentation results from multiple views
-  </p>
-</figure>
+
 
 <figure>
     <p align="center">
       <img src="OldResults/TreeSegmentation/TreeSegmentationResults2.png" width="50%" height="50%"/> <img src="OldResults/TreeSegmentation/Trees.png" width="50%" height="50%"/>
       
-      Left: Segmentation results Right: original view
+      Left: Segmentation results Right: original view (Angle and position are slightly offset)
+  </p>
+</figure>
+
+ <figure>
+    <p align="center">
+      <img src="OldResults/TreeSegmentation/TreeSegmentationResults.png" width="75%" height="75%"/>
+      
+      Segmentation results from another cluster in the same point cloud
   </p>
 </figure>
