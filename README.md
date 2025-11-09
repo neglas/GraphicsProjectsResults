@@ -105,3 +105,12 @@ someone working with BIM data can upload the model to a cloud server. A user tha
       Left: Start screen Right: App displaying the blender object 'Susan' 
   </p>
 </figure>
+
+## Other projects
+### Unreal Engine, C++
+
+Unfortunately, I have no images of my other graphics related projects. They include, but are not limited to: 
+<ul>
+  <li>VR apps in Meta Oculus with motion controls</li>
+  <li>XR app in HoloLens2, with ability to handle a rendered object</li>
+</ul>
